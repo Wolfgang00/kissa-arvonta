@@ -1,0 +1,11 @@
+
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="kissaarvonta.app" version="1.0.0">
+  <name>kissaarvonta</name>
+  <description>
+    Kissan arvonta nappi
+  </description>
+  <author email="puja.kouchehbaghi2@edu.vaasa.fi" href="http://vao.fi">
+    PKO
+  </author>
+</widget>
